@@ -26,7 +26,7 @@ Explore temporal patterns in crimes (time of day, date ranges)
 
 Identify hotspots using geolocation clustering
 
-Analyze types of crimes across neighborhoods
+Analyze types of crimes across neighbourhoods
 
 Assess changes in incident frequency across wards and districts
 
